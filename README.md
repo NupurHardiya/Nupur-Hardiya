@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nupur Hardiya</h1>
-<h3 align="center">A curious learner delving into the world of Machine Learning from India./h3>
+<h3 align="center">A curious learner delving into the world of Machine Learning from India.</h3>
 
 <h5 align="left">👩‍💻 I’m a Pre Final year CSE student.</h5>
 <h5 align="left">👀 I’m interested in Python, C++, C, mySQL</h5>
